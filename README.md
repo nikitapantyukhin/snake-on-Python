@@ -1,2 +1,2 @@
 # snake-on-Python
-Игра Змейка
+Игра "Змейка" на Python с помощью PyGame
